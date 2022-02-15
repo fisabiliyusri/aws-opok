@@ -1,0 +1,2 @@
+# aws-opok
+aws only
