@@ -1,7 +1,7 @@
 /*
 * Proxy Bridge
-* Copyright PANCHO7532 - P7COMUnications LLC (c) 2021
-* Dedicated to Emanuel Miranda, for giving me the idea to make this :v
+* Opok Aws Only
+* Mod By SL
 */
 const net = require('net');
 const stream = require('stream');
